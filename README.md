@@ -1,1 +1,0 @@
-# Odoo-Implementation-Development-Methodology
